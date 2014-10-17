@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kkt:home|Door43 (kkt)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kkt|d43-kkt repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kkt/archive/master.zip|d43-kkt.zip]]
+
+**Recent Changes**
+{{changes>ns = kkt}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kkt|Ethnologue data]]
+
